@@ -1,0 +1,15 @@
+C:\Users\fealv\source\repos\TREINO\TREINO\bin\Debug\net6.0\TREINO.exe
+C:\Users\fealv\source\repos\TREINO\TREINO\bin\Debug\net6.0\TREINO.deps.json
+C:\Users\fealv\source\repos\TREINO\TREINO\bin\Debug\net6.0\TREINO.runtimeconfig.json
+C:\Users\fealv\source\repos\TREINO\TREINO\bin\Debug\net6.0\TREINO.dll
+C:\Users\fealv\source\repos\TREINO\TREINO\bin\Debug\net6.0\TREINO.pdb
+C:\Users\fealv\source\repos\TREINO\TREINO\obj\Debug\net6.0\TREINO.csproj.AssemblyReference.cache
+C:\Users\fealv\source\repos\TREINO\TREINO\obj\Debug\net6.0\TREINO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fealv\source\repos\TREINO\TREINO\obj\Debug\net6.0\TREINO.AssemblyInfoInputs.cache
+C:\Users\fealv\source\repos\TREINO\TREINO\obj\Debug\net6.0\TREINO.AssemblyInfo.cs
+C:\Users\fealv\source\repos\TREINO\TREINO\obj\Debug\net6.0\TREINO.csproj.CoreCompileInputs.cache
+C:\Users\fealv\source\repos\TREINO\TREINO\obj\Debug\net6.0\TREINO.dll
+C:\Users\fealv\source\repos\TREINO\TREINO\obj\Debug\net6.0\refint\TREINO.dll
+C:\Users\fealv\source\repos\TREINO\TREINO\obj\Debug\net6.0\TREINO.pdb
+C:\Users\fealv\source\repos\TREINO\TREINO\obj\Debug\net6.0\TREINO.genruntimeconfig.cache
+C:\Users\fealv\source\repos\TREINO\TREINO\obj\Debug\net6.0\ref\TREINO.dll
